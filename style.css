@@ -1,0 +1,9 @@
+.form-area {
+    background-color: #E0E0E0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title, #description {
+    color: #272343;
+    font-family: 'Noto Sans JP', sans-serif;
+}
